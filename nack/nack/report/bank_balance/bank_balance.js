@@ -1,7 +1,7 @@
 // Copyright (c) 2025, Montego-arch and contributors
 // For license information, please see license.txt
 
-frappe.query_reports["Bank Balance Report"] = {
+frappe.query_reports["Bank Balance"] = {
 	"filters": [
 	  {
 		"fieldname": "from_date",
